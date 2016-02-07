@@ -1,0 +1,28 @@
+name: kallebamba
+favicon: null
+layout_spectrum: 0.8207581650931388
+typography_spectrum: 0.7722254018299282
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9463684833608568
+  lightness: 0.14946304773911834
+  saturation: 0.3435145835392177
+  rhythmicContrast: 0.924240524880588
+purpose: []
